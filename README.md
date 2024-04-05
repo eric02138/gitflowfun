@@ -1,4 +1,4 @@
 # gitflowfun
-### feature branch branch
+### feature branch
 
 messing around with something I already do
